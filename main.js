@@ -1,5 +1,5 @@
 const ReadLine = require("readline-sync");
-const Guess = require("./GuessGame/GuessName");
+const Guess = require("./GuessName");
 
 class GetNames {
   getNameOne() {
